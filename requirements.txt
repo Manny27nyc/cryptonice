@@ -1,6 +1,6 @@
 pathlib~=1.0.1
 setuptools~=41.2.0
-dnspython~=1.16.0
+dnspython~=2.6.0rc1
 sslyze<=3.0.8
 ipaddress~=1.0.23
 bs4>=0.0.1
